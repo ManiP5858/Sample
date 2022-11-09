@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47438" started-at="2022-11-02T03:32:53Z" finished-at="2022-11-02T03:33:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47438" started-at="2022-11-02T03:32:53Z" finished-at="2022-11-02T03:33:41Z">
+      <class name="com.type.MTesting">
+        <test-method status="PASS" signature="tc01()[pri:0, instance:com.type.MTesting@18ce0030]" name="tc01" is-config="true" duration-ms="44223" started-at="2022-11-02T03:32:53Z" finished-at="2022-11-02T03:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:com.type.MTesting@18ce0030]" name="tc02" duration-ms="3096" started-at="2022-11-02T03:33:38Z" finished-at="2022-11-02T03:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+      </class> <!-- com.type.MTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
